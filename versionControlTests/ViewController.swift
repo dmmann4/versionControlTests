@@ -13,12 +13,8 @@ class ViewController: UIViewController {
     super.viewDidLoad()
     // Do any additional setup after loading the view.
   }
-  
-<<<<<<< HEAD
-  //main push here see what happens
-=======
-  //added after the pull and merge
->>>>>>> 0fbccbe92b892eec033c99b27aeaaceb46dcfbf3
+   
+  //merge conflicts fixed
 
   //I am adding more stuff here to add to the new branch
   
