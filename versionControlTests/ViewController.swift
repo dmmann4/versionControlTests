@@ -13,10 +13,14 @@ class ViewController: UIViewController {
     super.viewDidLoad()
     // Do any additional setup after loading the view.
   }
+
   
   //I do not know what will happen here
   
   //added after the pull and merge
+   
+  //merge conflicts fixed
+
 
   //I am adding more stuff here to add to the new branch
   
